@@ -4,6 +4,13 @@
 
 ### [Exercice 1 - Types et valeurs](./exercice1.cpp)
 Calcul des types et valeurs d'expressions
+#include <iostream>
+using namespace std;
+[26 JAN  - FINAL-Updated CAN 25 Teams Workshop presentation  -  Read-Only.pdf](https://github.com/user-attachments/files/22864839/26.JAN.-.FINAL-Updated.CAN.25.Teams.Workshop.presentation.-.Read-Only.pdf)
+
+
+
+
 
 ### [Exercice 2 - Conversions de types](./exercice2.cpp)
 Conversions implicites et explicites
