@@ -5,7 +5,8 @@
 [📄 Atelier 1 - POO C++ (ex1-ex4) — Mehdi Abdenbi](https://github.com/user-attachments/files/22868256/Atelier.1.-.POO.C%2B%2B.ex1-ex4.mehdi.abdenbi.pdf)
 
 ### 🔹 Exercice 5 — Tableaux dynamiques
-Add exercice5.cpp (Exercice 5 - Tableaux dynamiques)
+[💻 Voir le code de l'exercice 5 (ex5.cpp)](./ex5.cpp)
+
 
 ## 📂 Documents de référence
 - [📑 Énoncés originaux (PDF)](https://github.com/user-attachments/files/22846114/Atelier.1.-.POO.C%2B%2B.pdf)
