@@ -1,8 +1,5 @@
 # 🧩 Atelier 2 — POO C++
 
-## 📘 Exercices
-# Atelier 2 - POO C++
-
 ## 🔷 Exercices
 ### 🔹[EX1](./ex1.cpp)<br><br>
 ### 🔹[EX2](./ex2.cpp)<br><br>
