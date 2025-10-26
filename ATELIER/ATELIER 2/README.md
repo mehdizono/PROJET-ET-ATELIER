@@ -16,9 +16,8 @@
 ### 🔹[EX9](./ex9.cpp) <br><br>
 ### 🔹[EX10](./ex10.cpp) <br><br>
 
-## 📁 Documents de Référence
-- [Énoncés originaux (PDF)](https://github.com/user-attachments/files/22846114/Atelier-1.-POO.C%2B%2B.pdf)
 
 ## 📄 Document
-- [Énoncés originaux (PDF)](./Atelier%202%20-%20POO%20C%2B%2B.pdf)  ```
+- [Énoncés originaux (PDF)]([Atelier 2.pdf](https://github.com/user-attachments/files/23153121/Atelier.2.pdf)
+)  
 
