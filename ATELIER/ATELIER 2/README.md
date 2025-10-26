@@ -4,17 +4,17 @@
 # Atelier 2 - POO C++
 
 ## 🔷 Exercices
-[EX1](./ATELIER%202/ex1.cpp)<br><br>
-[EX2](./ATELIER%202/ex2.cpp)<br><br>
-[EX3(a)](./ATELIER%202/ex3a.cpp)<br><br>
-[EX3(b)](./ATELIER%202/ex3b.cpp)<br><br>
-[EX4](./ATELIER%202/ex4.cpp) <br><br>
-[EX5](./ATELIER%202/ex5.cpp) <br><br>
-[EX6](./ATELIER%202/ex6.cpp) <br><br>
-[EX7](./ATELIER%202/ex7.cpp) <br><br>
-[EX8](./ATELIER%202/ex8.cpp) <br><br>
-[EX9](./ATELIER%202/ex9.cpp) <br><br>
-[EX10](./ATELIER%202/ex10.cpp) <br><br>
+### 🔹[EX1](./ex1.cpp)<br><br>
+### 🔹[EX2](./ex2.cpp)<br><br>
+### 🔹[EX3(a)](./ex3a.cpp)<br><br>
+### 🔹[EX3(b)](./ex3b.cpp)<br><br>
+### 🔹[EX4](./ex4.cpp) <br><br>
+### 🔹[EX5](./ex5.cpp) <br><br>
+### 🔹[EX6](./ex6.cpp) <br><br>
+### 🔹[EX7](./ex7.cpp) <br><br>
+### 🔹[EX8](./ex8.cpp) <br><br>
+### 🔹[EX9](./ex9.cpp) <br><br>
+### 🔹[EX10](./ex10.cpp) <br><br>
 
 ## 📁 Documents de Référence
 - [Énoncés originaux (PDF)](https://github.com/user-attachments/files/22846114/Atelier-1.-POO.C%2B%2B.pdf)
